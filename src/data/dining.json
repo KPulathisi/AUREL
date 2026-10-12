@@ -1,0 +1,52 @@
+{
+  "name": "Lunu",
+  "subtitle": "Salt, fire and the morning catch",
+  "intro": "Lunu means salt in Sinhala. Our restaurant cooks over coconut-husk fire, with fish bought each morning from Tangalle harbour, spices from the garden and recipes from the southern coast.",
+  "note": "Lunu is part of the fictional AUREL resort. Dishes and prices are illustrative.",
+  "highlights": [
+    { "title": "From the morning catch", "text": "Fish arrives from the boats at dawn and is cooked the same day, most often as ambul thiyal, the sour fish curry of the south.", "media": "dining-2" },
+    { "title": "A spice garden", "text": "Curry leaves, pandan, lemongrass and chillies grow a few steps from the kitchen.", "media": "dining-3" },
+    { "title": "Cooked over fire", "text": "The open grill burns dried coconut husks, giving everything a gentle smoke.", "media": "dining-video" }
+  ],
+  "hero": "dining-1",
+  "menu": [
+    {
+      "category": "To begin",
+      "items": [
+        { "name": "Hoppers and pol sambol", "description": "Crisp rice-flour hoppers with fresh coconut sambol and seeni sambol.", "price": 14 },
+        { "name": "Isso vadai", "description": "Lentil fritters topped with prawns, with a tamarind dip.", "price": 16 },
+        { "name": "Gotu kola salad", "description": "Pennywort, shallots, fresh coconut and lime.", "price": 12 }
+      ]
+    },
+    {
+      "category": "From the sea",
+      "items": [
+        { "name": "Ambul thiyal", "description": "Southern sour fish curry with goraka, black pepper and red rice.", "price": 32 },
+        { "name": "Jaffna crab curry", "description": "Lagoon crab in a roasted spice and coconut gravy, with string hoppers.", "price": 46 },
+        { "name": "Grilled catch of the day", "description": "Cooked over coconut husks with lunu miris and garden greens.", "price": 38 }
+      ]
+    },
+    {
+      "category": "From the garden",
+      "items": [
+        { "name": "Jackfruit curry", "description": "Young jackfruit slow-cooked with roasted curry powder and coconut milk.", "price": 22 },
+        { "name": "Seven-vegetable rice and curry", "description": "A changing selection of curries, mallums and pickles.", "price": 26 }
+      ]
+    },
+    {
+      "category": "Something sweet",
+      "items": [
+        { "name": "Curd and kithul treacle", "description": "Buffalo curd from a Tangalle dairy with kithul palm treacle.", "price": 11 },
+        { "name": "Watalappan", "description": "Jaggery and coconut custard with cardamom and cashew.", "price": 12 }
+      ]
+    },
+    {
+      "category": "To drink",
+      "items": [
+        { "name": "King coconut", "description": "Served in the shell, from the garden.", "price": 6 },
+        { "name": "Arrack sour", "description": "Coconut arrack, lime, kithul and egg white.", "price": 15 },
+        { "name": "Ceylon tea service", "description": "Single-estate teas from the hill country.", "price": 9 }
+      ]
+    }
+  ]
+}

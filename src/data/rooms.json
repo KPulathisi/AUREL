@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ocean-pavilion",
+    "name": "Ocean Pavilion",
+    "tagline": "Wake to the sound of the tide",
+    "description": "A single open pavilion at the edge of the dunes, with a plunge pool and a daybed facing the bay.",
+    "longDescription": "Set on the first line of the dunes, each Ocean Pavilion opens fully to the sea. Sliding teak screens fold away to join the bedroom, veranda and plunge pool into one long room in the breeze. An outdoor rain shower sits in a walled garden of beach morning glory, and the daybed faces east for sunrise.",
+    "size": 85,
+    "guests": 3,
+    "adults": 2,
+    "children": 1,
+    "bed": "King bed",
+    "view": "Ocean",
+    "price": 640,
+    "amenities": ["Private plunge pool", "Outdoor rain shower", "Ocean-facing daybed", "Teak sliding screens", "Pavilion host on call"],
+    "media": { "hero": "room-ocean-1", "gallery": ["room-ocean-1", "room-ocean-2", "room-ocean-3"] }
+  },
+  {
+    "id": "garden-sanctuary",
+    "name": "Garden Sanctuary",
+    "tagline": "A private walled garden of frangipani",
+    "description": "A courtyard suite wrapped around its own garden, with a sunken stone bath and a reading veranda.",
+    "longDescription": "Garden Sanctuaries face inward, around a walled courtyard of frangipani, ferns and a still reflecting pool. Shade moves slowly across the lime-washed walls through the day. The sunken stone bath opens to the sky, and a second sleeping room makes it ideal for families.",
+    "size": 110,
+    "guests": 4,
+    "adults": 2,
+    "children": 2,
+    "bed": "King bed + two singles",
+    "view": "Private garden",
+    "price": 520,
+    "amenities": ["Walled frangipani garden", "Sunken stone bath", "Reading veranda", "Second sleeping room", "Reflecting pool"],
+    "media": { "hero": "room-garden-1", "gallery": ["room-garden-1", "room-garden-2", "room-garden-3"] }
+  },
+  {
+    "id": "horizon-villa",
+    "name": "Horizon Villa",
+    "tagline": "Two pavilions and an infinity pool on the headland",
+    "description": "A two-bedroom villa on the headland with an infinity pool, rooftop sunset deck and a separate living pavilion.",
+    "longDescription": "On the rocky headland at the end of the bay, the Horizon Villa is arranged as a small compound: two bedroom pavilions, a living and dining pavilion, and an eighteen-metre infinity pool that seems to run straight into the Indian Ocean. Climb to the rooftop deck for sunset, or ask for a private chef to cook in the villa kitchen.",
+    "size": 240,
+    "guests": 6,
+    "adults": 4,
+    "children": 2,
+    "bed": "Two king beds + daybed",
+    "view": "Ocean and headland",
+    "price": 1450,
+    "amenities": ["18-metre infinity pool", "Two bedroom pavilions", "Rooftop sunset deck", "Separate living pavilion", "Private chef on request"],
+    "media": { "hero": "room-villa-1", "gallery": ["room-villa-1", "room-villa-2", "room-villa-3"] }
+  }
+]

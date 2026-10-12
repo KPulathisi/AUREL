@@ -1,0 +1,7 @@
+[
+  { "id": "arrival", "number": "I", "title": "The arrival court", "text": "A shaded gravel court and a single frangipani tree. You leave the car, the road noise fades, and the first thing you hear is the sea.", "media": "arch-1" },
+  { "id": "veranda", "number": "II", "title": "The long veranda", "text": "A sixty-metre colonnade runs the length of the main house, its deep roof throwing a cool band of shade across polished cement floors.", "media": "arch-2" },
+  { "id": "courtyards", "number": "III", "title": "Courtyards and light", "text": "Open courtyards bring light and rain into the heart of every building. Through the day, sun and shadow move across lime-washed walls like a slow clock.", "media": "arch-video" },
+  { "id": "water", "number": "IV", "title": "The water garden", "text": "Still pools step down through the garden towards the bay, catching reflections of palms and sky before the land gives way to the sea.", "media": "arch-4" },
+  { "id": "materials", "number": "V", "title": "Honest materials", "text": "Handmade clay roof tiles, reclaimed teak, lime plaster and local granite: materials that weather gracefully and belong to the coast.", "media": "arch-5" }
+]

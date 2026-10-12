@@ -1,0 +1,145 @@
+{
+  "region": "Southern Province, Sri Lanka",
+  "intro": "AUREL is imagined on a quiet crescent bay near Tangalle, where the south coast turns from golden beaches to rocky headlands. The resort itself is fictional; the places around it are real.",
+  "resort": {
+    "name": "AUREL (fictional)",
+    "x": 474,
+    "y": 360
+  },
+  "attractions": [
+    {
+      "name": "Rekawa turtle beach",
+      "distance": "About 20 minutes",
+      "note": "Community-led turtle nesting walks.",
+      "x": 517,
+      "y": 339
+    },
+    {
+      "name": "Mulkirigala rock temple",
+      "distance": "About 40 minutes",
+      "note": "Ancient cave temple with murals.",
+      "x": 451,
+      "y": 298
+    },
+    {
+      "name": "Hiriketiya bay",
+      "distance": "About 30 minutes",
+      "note": "A small horseshoe surf bay.",
+      "x": 436,
+      "y": 388
+    },
+    {
+      "name": "Mirissa",
+      "distance": "About 1 hour",
+      "note": "Whale watching, December to April.",
+      "x": 295,
+      "y": 396
+    },
+    {
+      "name": "Galle Fort",
+      "distance": "About 1 hour 45 minutes",
+      "note": "UNESCO World Heritage colonial fort town.",
+      "x": 162,
+      "y": 353
+    },
+    {
+      "name": "Udawalawe National Park",
+      "distance": "About 1 hour 45 minutes",
+      "note": "Elephant herds in open grassland.",
+      "x": 538,
+      "y": 115
+    },
+    {
+      "name": "Yala National Park",
+      "distance": "About 2 hours",
+      "note": "Leopards, elephants and coastal lagoons.",
+      "x": 824,
+      "y": 160
+    }
+  ],
+  "travel": [
+    {
+      "label": "From Colombo airport (CMB)",
+      "value": "About 3.5–4 hours by car via the Southern Expressway"
+    },
+    {
+      "label": "From Mattala airport (HRI)",
+      "value": "About 1 hour by car"
+    },
+    {
+      "label": "Best weather",
+      "value": "December to April, the dry season on the south coast"
+    }
+  ],
+  "disclaimer": "Travel times are approximate and depend on traffic and route.",
+  "coast": [
+    [
+      96,
+      289
+    ],
+    [
+      163,
+      350
+    ],
+    [
+      180,
+      362
+    ],
+    [
+      219,
+      373
+    ],
+    [
+      281,
+      384
+    ],
+    [
+      298,
+      398
+    ],
+    [
+      340,
+      396
+    ],
+    [
+      370,
+      412
+    ],
+    [
+      432,
+      390
+    ],
+    [
+      488,
+      356
+    ],
+    [
+      516,
+      342
+    ],
+    [
+      561,
+      322
+    ],
+    [
+      667,
+      300
+    ],
+    [
+      723,
+      272
+    ],
+    [
+      785,
+      247
+    ],
+    [
+      852,
+      199
+    ],
+    [
+      914,
+      132
+    ]
+  ]
+}

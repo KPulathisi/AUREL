@@ -1,0 +1,38 @@
+{
+  "name": "AUREL",
+  "tagline": "A sanctuary on the southern coast of Sri Lanka",
+  "fictionalNotice": "AUREL is a fictional resort created for a design portfolio. Rooms, prices and availability are illustrative only.",
+  "hero": {
+    "location": "Tangalle, southern coast of Sri Lanka",
+    "coordinates": "6.02° N · 80.79° E",
+    "lines": ["Where the Ocean", "Slows Time."],
+    "text": "Twenty-two pavilions set between a crescent bay and a frangipani garden, where mornings begin with the tide and evenings end in candlelight.",
+    "cta": "Explore the resort",
+    "media": "hero-video",
+    "poster": "hero-poster"
+  },
+  "story": {
+    "manifesto": "We built AUREL around the rhythm of the south coast: fishing boats leaving before dawn, monsoon clouds rolling in over the bay, the long gold hour before dusk. Nothing here is rushed. Walls open to the breeze, paths follow the shade, and every room is placed to hear the sea.",
+    "chapters": [
+      { "title": "Shaped by the tide", "text": "The resort follows the line of the bay. Pavilions step down towards the water, and the sound of the waves reaches every room.", "media": "story-1" },
+      { "title": "Gardens before buildings", "text": "Old trees stayed where they stood. We planted frangipani, ixora and native palms first, and placed the architecture in the spaces they left.", "media": "story-2" },
+      { "title": "Rooms that breathe", "text": "Deep verandas, louvred screens and linen curtains let the sea breeze move through each space, so the air feels cool without closing a single door.", "media": "story-video" }
+    ]
+  },
+  "stats": [
+    { "value": "22", "label": "pavilions and villas" },
+    { "value": "800 m", "label": "of private crescent bay" },
+    { "value": "4 ha", "label": "of restored coastal garden" }
+  ],
+  "cta": {
+    "headline": "Your Next Chapter Begins by the Sea.",
+    "text": "Plan your stay and we'll prepare an indicative estimate you can share or print.",
+    "media": "cta-video",
+    "poster": "cta-poster"
+  },
+  "contact": {
+    "email": "stay@aurel-resort.example",
+    "address": "Fictional address, near Tangalle, Southern Province, Sri Lanka"
+  },
+  "currency": "USD"
+}

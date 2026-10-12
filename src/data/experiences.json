@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sunrise-yoga",
+    "title": "Sunrise yoga",
+    "when": "Daily at dawn",
+    "duration": "60 minutes",
+    "short": "Slow practice on the ocean deck as the first fishing boats come home.",
+    "long": "Our teachers lead an unhurried hatha session on a raised timber deck above the beach. The practice follows the light: gentle movement in the blue hour, breathing as the sun clears the horizon, and stillness to finish with king coconut water.",
+    "shape": "tall",
+    "media": "exp-yoga"
+  },
+  {
+    "id": "private-dining",
+    "title": "Private dining",
+    "when": "Evenings",
+    "duration": "From 2 hours",
+    "short": "A table set on the sand, lit by lanterns, with a menu cooked for you.",
+    "long": "Choose your setting: on the beach at low tide, in a lantern-lit corner of the garden, or on your own veranda. Our chefs build a menu around the day's catch and your tastes, served course by course as the light fades.",
+    "shape": "wide",
+    "media": "exp-dining"
+  },
+  {
+    "id": "ocean-excursions",
+    "title": "Ocean excursions",
+    "when": "Seasonal, December to April",
+    "duration": "Half day",
+    "short": "Early boat trips from Mirissa to look for blue whales and spinner dolphins.",
+    "long": "Between December and April, the waters off Mirissa are among the best places in the world to see blue whales. We arrange small-group trips with operators who follow responsible whale-watching guidelines, keeping distance and limiting time near the animals.",
+    "shape": "square",
+    "media": "exp-ocean"
+  },
+  {
+    "id": "turtle-watch",
+    "title": "Turtle nesting walks",
+    "when": "Night, with local guides",
+    "duration": "2–3 hours",
+    "short": "Quiet night walks at Rekawa beach, where sea turtles come ashore to nest.",
+    "long": "Rekawa, just east of Tangalle, is one of Sri Lanka's most important turtle nesting beaches. Community guides lead small groups to watch from a respectful distance, without flash photography or torches, as turtles come ashore.",
+    "shape": "square",
+    "media": "exp-turtles"
+  },
+  {
+    "id": "local-culture",
+    "title": "Local culture",
+    "when": "Morning or late afternoon",
+    "duration": "3–4 hours",
+    "short": "The cave temples of Mulkirigala, village markets and a lesson in southern cooking.",
+    "long": "Climb the rock-cut steps of Mulkirigala, an ancient Buddhist cave temple with centuries-old murals, then walk through a village market with our chef to choose spices for a cooking lesson back at the resort. Please dress modestly for temple visits.",
+    "shape": "wide",
+    "media": "exp-culture"
+  },
+  {
+    "id": "wellness-rituals",
+    "title": "Wellness rituals",
+    "when": "By appointment",
+    "duration": "90–150 minutes",
+    "short": "Treatments inspired by Sri Lankan traditions, using oils pressed from the garden.",
+    "long": "In a pavilion screened by bamboo, therapists combine warm herbal oils, coconut and gentle massage in rituals inspired by local traditions. Treatments are for relaxation only and are not medical therapy.",
+    "shape": "square",
+    "media": "exp-wellness"
+  }
+]
