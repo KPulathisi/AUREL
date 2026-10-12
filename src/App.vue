@@ -15,7 +15,8 @@ onMounted(() => startSmoothScroll())
 
 // Page transition: a sea-green curtain rises over the old page and lifts off the new one
 function onLeave(el, done) {
-  if (reducedMotion || !curtain.value) return done()
+  // done() must not run synchronously inside the leave hook, or Vue can't mount the next page
+  if (reducedMotion || !curtain.value) return requestAnimationFrame(done)
   gsap.timeline({ onComplete: done })
     .set(curtain.value, { yPercent: 100, display: 'block' })
     .to(curtain.value, { yPercent: 0, duration: 0.65, ease: 'expo.inOut' })
@@ -27,8 +28,7 @@ function onEnter(el, done) {
   if (firstPage) { firstPage = false; return done() } // first load: show content immediately
   scrollToTarget(0, { immediate: true })
   window.scrollTo(0, 0)
-  requestAnimationFrame(() => ScrollTrigger.refresh())
-  if (reducedMotion || !curtain.value) return done()
+  if (reducedMotion || !curtain.value) { requestAnimationFrame(() => { ScrollTrigger.refresh(); done() }); return }
   gsap.timeline({ onComplete: () => {
     gsap.set(curtain.value, { display: 'none' })
     // Remove leftover transforms: a transformed wrapper would break position: fixed pinning
