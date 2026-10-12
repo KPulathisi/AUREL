@@ -7,7 +7,7 @@
     "aspect": "16/9",
     "alt": "Dawn over a quiet crescent bay on Sri Lanka's southern coast.",
     "prompt": "Cinematic slow drone shot at dawn gliding over a quiet crescent beach on Sri Lanka's southern coast near Tangalle. Clear turquoise shallows, gentle waves rolling onto golden sand, tall coconut palms, and a few low pavilions with terracotta clay-tile roofs half hidden among the palms. Soft pink and gold light with light sea mist. Sri Lankan tropical modernist architecture: open-sided pavilions, lime-washed white walls, handmade terracotta clay-tiled roofs, polished cement floors, reclaimed teak, frangipani trees and courtyards. 8–12 seconds. Slow, steady camera, seamless loop, no cuts, no people facing camera, no text. Photorealistic, natural light, subtle film grain, muted warm palette of ivory, sand, olive and deep sea green, editorial luxury travel-magazine style, no text, no logos, no watermarks.",
-    "file": "",
+    "file": "media/videos/hero-video.mp4",
     "credit": ""
   },
   {
@@ -18,7 +18,7 @@
     "aspect": "16/9",
     "alt": "Dawn over a quiet crescent bay lined with palms and low pavilions.",
     "prompt": "Wide aerial photograph at dawn of a quiet crescent bay on Sri Lanka's southern coast, turquoise shallows, golden sand, coconut palms and a few low terracotta-roofed pavilions hidden in the trees. Soft pink-gold light, calm sea. Sri Lankan tropical modernist architecture: open-sided pavilions, lime-washed white walls, handmade terracotta clay-tiled roofs, polished cement floors, reclaimed teak, frangipani trees and courtyards. Photorealistic, natural light, subtle film grain, muted warm palette of ivory, sand, olive and deep sea green, editorial luxury travel-magazine style, no text, no logos, no watermarks.",
-    "file": "",
+    "file": "hero-poster",
     "credit": ""
   },
   {
@@ -29,7 +29,7 @@
     "aspect": "4/5",
     "alt": "Low tide pools reflecting the morning sky beside a timber deck.",
     "prompt": "Vertical photograph of low tide on a southern Sri Lankan beach at early morning: shallow tide pools mirror a pale sky, a weathered teak deck leads towards the water, a traditional oruwa outrigger canoe rests on the sand in the distance. Photorealistic, natural light, subtle film grain, muted warm palette of ivory, sand, olive and deep sea green, editorial luxury travel-magazine style, no text, no logos, no watermarks.",
-    "file": "",
+    "file": "story-1",
     "credit": ""
   },
   {
@@ -40,7 +40,7 @@
     "aspect": "16/9",
     "alt": "Frangipani shadows falling across a lime-washed garden wall.",
     "prompt": "Wide photograph of a lush tropical garden path at a boutique resort: frangipani trees in bloom casting dappled shadows on a lime-washed wall, ferns and native palms, a stepping-stone path, warm late-morning light. Sri Lankan tropical modernist architecture: open-sided pavilions, lime-washed white walls, handmade terracotta clay-tiled roofs, polished cement floors, reclaimed teak, frangipani trees and courtyards. Photorealistic, natural light, subtle film grain, muted warm palette of ivory, sand, olive and deep sea green, editorial luxury travel-magazine style, no text, no logos, no watermarks.",
-    "file": "",
+    "file": "story-2",
     "credit": ""
   },
   {
@@ -51,7 +51,7 @@
     "aspect": "4/5",
     "alt": "Sheer linen curtains moving in the sea breeze inside an open pavilion.",
     "prompt": "Vertical close shot inside an open-sided pavilion: sheer white linen curtains moving gently in a sea breeze, polished cement floor, teak furniture, the ocean softly out of focus beyond. Sri Lankan tropical modernist architecture: open-sided pavilions, lime-washed white walls, handmade terracotta clay-tiled roofs, polished cement floors, reclaimed teak, frangipani trees and courtyards. 6–8 seconds. Slow, steady camera, seamless loop, no cuts, no people facing camera, no text. Photorealistic, natural light, subtle film grain, muted warm palette of ivory, sand, olive and deep sea green, editorial luxury travel-magazine style, no text, no logos, no watermarks.",
-    "file": "",
+    "file": "media/videos/story-video.mp4",
     "credit": ""
   },
   {
@@ -62,7 +62,7 @@
     "aspect": "3/2",
     "alt": "An open ocean pavilion with a plunge pool and daybed facing the bay.",
     "prompt": "Wide photograph of a luxury beachfront pavilion suite with its teak sliding screens folded open: king bed with white linen, a dark-tiled plunge pool on the veranda, an ocean-facing daybed, palms framing the turquoise bay. Golden morning light. Sri Lankan tropical modernist architecture: open-sided pavilions, lime-washed white walls, handmade terracotta clay-tiled roofs, polished cement floors, reclaimed teak, frangipani trees and courtyards. Photorealistic, natural light, subtle film grain, muted warm palette of ivory, sand, olive and deep sea green, editorial luxury travel-magazine style, no text, no logos, no watermarks.",
-    "file": "",
+    "file": "room-ocean-1",
     "credit": ""
   },
   {
@@ -73,7 +73,7 @@
     "aspect": "4/5",
     "alt": "An outdoor rain shower in a small walled garden.",
     "prompt": "Vertical photograph of an outdoor rain shower in a small walled garden of a beach pavilion: lime-washed walls, a brass rain-shower head, river-stone floor, creeping beach morning glory, soft sunlight. Photorealistic, natural light, subtle film grain, muted warm palette of ivory, sand, olive and deep sea green, editorial luxury travel-magazine style, no text, no logos, no watermarks.",
-    "file": "",
+    "file": "room-ocean-2",
     "credit": ""
   },
   {
@@ -249,7 +249,7 @@
     "aspect": "3/2",
     "alt": "Sunlight and shadow moving across a courtyard wall.",
     "prompt": "Time-lapse of sunlight and palm shadows moving slowly across a lime-washed courtyard wall and polished floor in an open-air tropical courtyard, a small frangipani tree in the centre. Sri Lankan tropical modernist architecture: open-sided pavilions, lime-washed white walls, handmade terracotta clay-tiled roofs, polished cement floors, reclaimed teak, frangipani trees and courtyards. 8–10 seconds. Slow, steady camera, seamless loop, no cuts, no people facing camera, no text. Photorealistic, natural light, subtle film grain, muted warm palette of ivory, sand, olive and deep sea green, editorial luxury travel-magazine style, no text, no logos, no watermarks.",
-    "file": "",
+    "file": "media/videos/arch-video.mp4",
     "credit": ""
   },
   {
@@ -315,7 +315,7 @@
     "aspect": "4/5",
     "alt": "Fish grilling over a coconut-husk fire.",
     "prompt": "Close slow-motion shot of fish and prawns grilling over glowing coconut-husk embers, gentle smoke and sparks rising, warm firelight. 6–8 seconds. Slow, steady camera, seamless loop, no cuts, no people facing camera, no text. Photorealistic, natural light, subtle film grain, muted warm palette of ivory, sand, olive and deep sea green, editorial luxury travel-magazine style, no text, no logos, no watermarks.",
-    "file": "",
+    "file": "media/videos/dining-video.mp4",
     "credit": ""
   },
   {
@@ -326,7 +326,7 @@
     "aspect": "16/9",
     "alt": "Waves washing over golden sand at sunset, seen from above.",
     "prompt": "Top-down slow drone shot of gentle waves washing over golden sand at sunset, foam patterns spreading and retreating. 8–12 seconds. Slow, steady camera, seamless loop, no cuts, no people facing camera, no text. Photorealistic, natural light, subtle film grain, muted warm palette of ivory, sand, olive and deep sea green, editorial luxury travel-magazine style, no text, no logos, no watermarks.",
-    "file": "",
+    "file": "media/videos/cta-video.mp4",
     "credit": ""
   },
   {
