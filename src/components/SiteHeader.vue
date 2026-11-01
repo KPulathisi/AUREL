@@ -37,7 +37,7 @@ watch(open, async (v) => {
   document.body.style.overflow = v ? 'hidden' : ''
   if (v && !reducedMotion) {
     await nextTick()
-    gsap.from(panel.value.querySelectorAll('.mlink'), { yPercent: 110, duration: 0.9, ease: 'expo.out', stagger: 0.06, delay: 0.15 })
+    gsap.from(panel.value.querySelectorAll('.mlink'), { yPercent: 110, duration: 0.9, ease: 'expo.out', stagger: 0.06, delay: 0.15, clearProps: 'transform' })
   }
 })
 const onKey = (e) => { if (e.key === 'Escape') open.value = false }
@@ -67,9 +67,9 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKey))
           <Transition name="xfade"><MediaFrame :key="hoverMedia" :id="hoverMedia" fill /></Transition>
         </div>
         <nav class="panel-nav" aria-label="Menu">
-          <RouterLink to="/" class="mrow"><span class="mlink">Home</span></RouterLink>
+          <RouterLink to="/" class="mrow"><span class="mlink"><span class="mtxt">Home</span></span></RouterLink>
           <RouterLink v-for="(l, i) in links" :key="l.to" :to="l.to" class="mrow" @mouseenter="hoverMedia = l.media" @focus="hoverMedia = l.media">
-            <span class="mlink"><small>0{{ i + 1 }}</small>{{ l.label }}</span>
+            <span class="mlink"><span class="mtxt"><small>0{{ i + 1 }}</small>{{ l.label }}</span></span>
           </RouterLink>
         </nav>
       </div>
@@ -103,9 +103,11 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKey))
 .panel-media::after { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, transparent 60%, var(--sea-deep)); }
 .panel-nav { display: flex; flex-direction: column; justify-content: center; padding: 6rem var(--gutter) 3rem; gap: .2rem; }
 .mrow { overflow: hidden; text-decoration: none; color: var(--paper); }
-.mlink { display: inline-flex; align-items: baseline; gap: 1.2rem; font-family: var(--serif); font-size: clamp(2.4rem, 1.4rem + 4vw, 5rem); line-height: 1.12; transition: color .4s, transform .6s var(--ease); }
+/* .mlink is GSAP's reveal target; the hover nudge lives on .mtxt so a CSS transform transition never fights the tween */
+.mlink { display: block; font-family: var(--serif); font-size: clamp(2.4rem, 1.4rem + 4vw, 5rem); line-height: 1.12; }
+.mtxt { display: inline-flex; align-items: baseline; gap: 1.2rem; transition: color .4s, transform .6s var(--ease); }
 .mlink small { font: 400 .8rem/1 var(--sans); color: var(--sand); letter-spacing: .1em; }
-.mrow:hover .mlink, .mrow:focus-visible .mlink { color: var(--sand); transform: translateX(14px); }
+.mrow:hover .mtxt, .mrow:focus-visible .mtxt { color: var(--sand); transform: translateX(14px); }
 .mrow.router-link-exact-active .mlink { font-style: italic; }
 .panel-enter-active, .panel-leave-active { transition: clip-path .9s var(--ease); }
 .panel-enter-from, .panel-leave-to { clip-path: inset(0 0 100% 0); }
